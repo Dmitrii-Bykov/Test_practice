@@ -77,4 +77,5 @@ namespace calculator
         }
 
     }
+ Console.WriteLine("Спасибо за использование этой программы");
 }
