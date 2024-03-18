@@ -77,5 +77,10 @@ namespace calculator
         }
 
     }
+ Bykov
+ Console.WriteLine("Спасибо за использование этой программы");
+
  Console.WriteLine("Спасибо за работу)");
+ main
+  
 }
